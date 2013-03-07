@@ -1,0 +1,2 @@
+DEBUG=True
+HANDLE_STATIC=True
