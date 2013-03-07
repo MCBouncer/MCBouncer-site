@@ -1,4 +1,5 @@
-MCBouncer-site
+MCBouncer Site
 ==============
 
-mcbouncer.com source code
+This is where the mcbouncer.com source code will live.
+
